@@ -1,1 +1,3 @@
 # WW1-scenario-
+
+In order to enter any country, you need to go to the console (open it with the ~ button below esc) and write 1) civ setplayertype spectator ai 2) civ setplayertype (the name of your country  (if it is not from one word, then put “-” between the words) human.  Be sure to do it in this order.  The map was made by Sanya Verin.  It is not entirely correct, so mistakes are possible.  Germany, the USA, Britain and several other European countries were issued manfractures.  Almost all countries received approximately the same initial force as they had in 1914.  Minor countries were poorly developed.
